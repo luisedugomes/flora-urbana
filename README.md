@@ -81,14 +81,12 @@ A aplicação **Flora Urbana** possui como objetivo disponibilizar as principais
 * 🔎 Busca e filtragem de produtos;
 * 🪴 Visualização dos detalhes de cada produto;
 * 🛒 Adição e remoção de produtos do carrinho;
-* ➕ Alteração da quantidade de itens;
 * 💰 Cálculo do subtotal e valor total da compra;
 * 👤 Cadastro/preenchimento de dados do cliente;
 * 📍 Cadastro de endereço para entrega;
 * 📦 Seleção de opções relacionadas à entrega;
 * 💳 Simulação do processo de checkout;
 * ✅ Validação dos formulários;
-* 💾 Persistência de informações utilizando Web Storage;
 * 🔄 Comunicação com API Fake utilizando requisições assíncronas.
 
 ---
