@@ -1,6 +1,6 @@
 # 🌿 flora-urbana
 
-### **Autor:** Seu Nome
+### **Autor:** Luis Eduardo Gomes
 
 A **Flora Urbana** é uma aplicação web de e-commerce desenvolvida para uma loja virtual especializada na comercialização de plantas, vasos e produtos relacionados à jardinagem.
 
