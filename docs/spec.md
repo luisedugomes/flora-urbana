@@ -254,5 +254,7 @@ A estrutura serve de contexto para ferramentas de IA e para o **JSON Server** in
       "subtotal": 49.90
     }
   ]
+
+## 4. Técnologias
 }
 ```
