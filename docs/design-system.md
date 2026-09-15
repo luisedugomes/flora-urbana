@@ -6,8 +6,8 @@ Neste projeto, utilizamos um framework UI como base e aplicamos customizações 
 
 ### 1. Framework Base
 
-* **Framework escolhido:** MaterializeCSS
-* **Motivação:** Oferece componentes prontos baseados no Material Design, facilitando a criação de interfaces responsivas, organizadas e consistentes. A utilização do framework permite acelerar o desenvolvimento e manter um padrão visual entre as diferentes páginas da aplicação.
+* **Framework escolhido:** Bootstrap v5.3.3.
+* **Motivação:** O Bootstrap, além de ser o framework mais usado do mercado, também utiliza um sistema de responsividade focado em "Mobile First", além de possuir sua própria maneira de trabalhar com grids e ter componentes de design prontos, acelerando o tempo de produção.
 
 ---
 
