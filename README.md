@@ -55,7 +55,7 @@ A aplicação poderá ser disponibilizada utilizando **GitHub Pages** ou outra p
 * **HTML5** — Estruturação das páginas da aplicação.
 * **CSS3** — Estilização e personalização dos componentes.
 * **JavaScript** — Lógica da aplicação, manipulação do DOM e interatividade.
-* **Framework CSS** — Utilizado para criação de componentes e layouts responsivos.
+* **Framework: Bootstrap v.5.3.3** — Utilizado para criação de componentes e layouts responsivos.
 * **jQuery** — Manipulação do DOM, eventos e interações da interface.
 
 ### Backend / API
