@@ -60,7 +60,7 @@ A aplicação poderá ser disponibilizada utilizando **GitHub Pages** ou outra p
 
 ### Backend / API
 
-* **JSON Server** — Utilizado para simular uma API REST e disponibilizar os dados da aplicação.
+* **ViaCEP** — Utilizado para consulta de Código de Endereçamento Postal (CEP) do Brasil.
 
 ### Ferramentas
 
