@@ -254,7 +254,11 @@ A estrutura serve de contexto para ferramentas de IA e para o **JSON Server** in
       "subtotal": 49.90
     }
   ]
-
-## 4. Técnologias
 }
 ```
+## 4. Técnologias
+
+Técnologias que serão utilizadas:
+
+* **Bootstrap v5.3.3:** Framework css.
+* * **ViaCEp:** Api utilizada para encontrar o código de endereço postal desejado. ( Não possui indentificação de versionamento para o público).
