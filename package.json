@@ -1,0 +1,31 @@
+{
+  "name": "flora-urbana",
+  "version": "1.0.0",
+  "description": "A **Flora Urbana** é uma aplicação web de e-commerce desenvolvida para uma loja virtual especializada na comercialização de plantas, vasos e produtos relacionados à jardinagem.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisedugomes/flora-urbana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luisedugomes/flora-urbana/issues"
+  },
+  "homepage": "https://github.com/luisedugomes/flora-urbana#readme",
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "uuid": "^14.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
